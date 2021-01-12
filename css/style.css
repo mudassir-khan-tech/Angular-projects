@@ -1,0 +1,101 @@
+
+
+ .container{
+    border: 2px solid black;
+  }
+ 
+
+  /* @font-face{
+      font-family: brushFont;
+      src: url(../fonts/AlexBrush-Regular.ttf);
+  } */
+
+ 
+/*
+#header{
+    background: orange
+}
+#menu{
+    background: pink;
+   
+}
+#menu ul{
+    list-style: none;
+    margin:0;
+    padding: 10px 0px
+}
+#menu ul li{
+    display: inline;
+    padding: 0px 5px;
+    
+}
+#menu ul li:hover{
+    background: lightgray;
+    padding: 5px 5px;
+    
+}
+#content{
+    background: white
+}
+#sidebar{
+    background: skyblue
+}
+#footer{
+    background: orange
+}
+
+*/
+
+.row{
+    border: 2px solid red
+}
+
+.col, .col-1, .col-2, .col-3, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12{
+    /* border: 0px solid green */
+    /* background: pink */
+}
+body{
+    background:white
+}
+.col-4{
+    background: green
+}
+
+.green{
+    background: green;
+}
+.skyBlue{
+    background:skyblue
+}
+.pink{
+    background: pink;
+}
+.white{
+    background: white;
+}
+.orange{
+    background: orange;
+}
+.blue{
+    background: blue;
+}
+.nest1{
+    background: pink;
+}
+.nest2{
+    background: yellow
+}
+
+.heading{
+    background: yellow
+}
+
+#menu ul{
+    list-style: none;
+}
+#menu ul{
+    margin: 0;
+}
+#menu ul li{
+    display: inline-block;
+}
